@@ -1,0 +1,5 @@
+streamlit
+pytest
+pyserial
+requests
+plotly
